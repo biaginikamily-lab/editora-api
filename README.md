@@ -2,8 +2,7 @@
 
 ## Integrantes
 - Kamily Biagini
-- Nome do integrante 2
-- Nome do integrante 3
+
 
 ## Como rodar
 1. Ter o Java 21 instalado
